@@ -1,4 +1,3 @@
-```markdown
 # Brazilian E-Commerce Business Insights Generator
 
 An end-to-end data processing pipeline that merges, cleans, and analyzes relational e-commerce data from the **Olist Dataset** (Brazilian eCommerce public dataset). The script engineers operational metrics to uncover how fulfillment logistics directly impact customer satisfaction and analyzes purchasing behaviors across payment channels.
